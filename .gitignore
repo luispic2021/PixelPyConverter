@@ -160,6 +160,6 @@ cython_debug/
 #.idea/
 
 # Ignore input, output and corrupt files
-input/.
-output/.
-corrupt_files/.
+input/*
+output/*
+corrupt_files/*
